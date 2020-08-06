@@ -1,4 +1,4 @@
-### Go-Back-N Socket Program For A2/CS456
+### Go-Back-N Socket Program 
 
 ---
 
